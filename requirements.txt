@@ -1,0 +1,13 @@
+# Core Requirements
+Flask==2.3.2
+passlib==1.7.4
+pyotp==2.8.0
+cryptography==41.0.3
+qrcode[pil]==7.4.2
+
+# Database
+sqlite3==3.42.0  # Usually comes with Python
+
+# Utilities
+python-dotenv==1.0.0
+uuid==1.30
